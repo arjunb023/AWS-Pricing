@@ -1,4 +1,4 @@
-AWS Spot Pricing Tool
+#AWS Spot Pricing Tool
 
 Directory Information:
 - index.html (main page)
